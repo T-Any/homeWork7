@@ -15,7 +15,7 @@ class Program
         Console.WriteLine($"Натуральные числа от {m} до {n}:");
         PrintNaturalNumbers(m, n);
 
-        Console.ReadLine(); // Ждем, чтобы консольное окно не закрылось сразу
+        Console.ReadLine(); 
     }
 
     static void PrintNaturalNumbers(int start, int end)
