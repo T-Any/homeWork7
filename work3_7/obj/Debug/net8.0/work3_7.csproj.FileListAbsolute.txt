@@ -1,0 +1,14 @@
+E:\homeWork7\work3_7\bin\Debug\net8.0\work3_7.exe
+E:\homeWork7\work3_7\bin\Debug\net8.0\work3_7.deps.json
+E:\homeWork7\work3_7\bin\Debug\net8.0\work3_7.runtimeconfig.json
+E:\homeWork7\work3_7\bin\Debug\net8.0\work3_7.dll
+E:\homeWork7\work3_7\bin\Debug\net8.0\work3_7.pdb
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.AssemblyInfoInputs.cache
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.AssemblyInfo.cs
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.csproj.CoreCompileInputs.cache
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.dll
+E:\homeWork7\work3_7\obj\Debug\net8.0\refint\work3_7.dll
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.pdb
+E:\homeWork7\work3_7\obj\Debug\net8.0\work3_7.genruntimeconfig.cache
+E:\homeWork7\work3_7\obj\Debug\net8.0\ref\work3_7.dll
